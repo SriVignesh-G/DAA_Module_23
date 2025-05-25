@@ -27,7 +27,7 @@ b.If current_max < 0, reset current_max to 0.
 To implement the program to find the maximum contiguous subarray.
 
 
-Developed by: Sri Vignesh g
+Developed by: Sri Vignesh G
 Register Number: 212223040204
 */
 def maxSubArraySum(a,size):
